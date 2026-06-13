@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Soorya 👋
 
-<!--
-**soorya-117/soorya-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 College student passionate about tech and problem solving
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- Java
+- SQL / MySQL
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in:
+- AI / ML
+- Data Science
+- Software Development
+- Hackathons
+
+🛠 Current Project:
+- Redrob Ranker (AI-powered candidate ranking system)
+
+📈 Current Goal:
+- Improve DSA
+- Build strong projects
+- Become industry-ready
